@@ -1,4 +1,4 @@
-/**Escreva um programa que simule uma partida de pedra, papel e tesoura.
+/** 08. Escreva um programa que simule uma partida de pedra, papel e tesoura.
  * Deve ser solicitado o nome do Jogador A e do Jogador B.
  * Após isso o programa deve pedir a jogada do jogador A e a joagada do Jogador B.
  * Dicas:

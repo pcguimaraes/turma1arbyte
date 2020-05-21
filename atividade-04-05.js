@@ -1,4 +1,4 @@
-/** Crie um programa que peça ao usuário n números e,
+/** 05. Crie um programa que peça ao usuário n números e,
  *  uando u suário digitar -1, imrima o maior e o menor,
  *  sem levar em consideração o -1
  */

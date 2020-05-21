@@ -1,4 +1,4 @@
-/** Escreva um programa que apresente quatro opções:
+/** 07. Escreva um programa que apresente quatro opções:
  * (a) consulta saldo, (b) saque, (c) depósito e (d) sair.
  * O saldo deve iniciar com R$0,00.
  * A cada saque ou depósito o valor do saldo deve ser atualizado.
