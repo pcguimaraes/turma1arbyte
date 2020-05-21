@@ -1,4 +1,4 @@
-/* Escreva um programa ue calcule a soma de todos os múltiplos de 3 e 5 entre 1 e 1000 */
+/* 04. Escreva um programa ue calcule a soma de todos os múltiplos de 3 e 5 entre 1 e 1000 */
 var inicio = 1
 var fim = 1000
 var mult3 = 3

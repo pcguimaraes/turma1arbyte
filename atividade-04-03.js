@@ -1,4 +1,4 @@
-/* Escreva um programa javascript para escrever o seguinte padrão na ela, com N linhas:
+/* 03. Escreva um programa javascript para escrever o seguinte padrão na ela, com N linhas:
     *
     **
     ***

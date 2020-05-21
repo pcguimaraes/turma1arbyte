@@ -1,4 +1,4 @@
-/* Escreva um programa que pedirá para o usuário dois números entre 1 e 100.
+/* 01. Escreva um programa que pedirá para o usuário dois números entre 1 e 100.
     O programa deverá iterar de um em um do menor para o maior, sempre imprimindo o numero.
     Caso o número seja divisível por 7, o programa imprime "Ping" ao invés do número.
     Caso o número seja divisível por 5, o programa imprime "Pong" ao invés do número.
