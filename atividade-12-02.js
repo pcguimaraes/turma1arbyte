@@ -8,6 +8,7 @@ Repita esse passo para os outros alunos.
 Ao final o algoritmo deve iterar pelo array de alunos e descobrir quais são os alunos
 com maior idade e imprimir seus nomes.*/
 const rs = require('readline-sync')
+const cm = require('calcula-media')
 class Aluno{
     constructor(nome, idade){
         this.nome = nome
@@ -41,3 +42,5 @@ if(qtdeAlunosMaiores.length > 1){
         console.log(qtdeAlunosMaiores[i])
     }
 }
+
+console.log('Media de idade dos alunos: ', cm.calculaMediaIdadeAluno(alunos))

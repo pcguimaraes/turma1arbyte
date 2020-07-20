@@ -9,6 +9,7 @@ e cor.
 Ao final o algoritmo deve comparar se os carro são iguais.
 Um carro vai ser igual ao outros se modelo e nome possuem o mesmo valor.*/
 const rs = require('readline-sync')
+const modCarro = require('carro')
 class Carro {
     constructor(nome, modelo, cor){
         this.nome = nome
